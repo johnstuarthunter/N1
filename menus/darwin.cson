@@ -2,7 +2,7 @@
   {
     label: 'Nylas N1'
     submenu: [
-      { label: 'About Nylas N1 with Ledger', command: 'application:about' }
+      { label: 'About Nylas N1 with Ledger v. 2', command: 'application:about' }
       { type: 'separator' }
       { label: 'Preferences', command: 'application:open-preferences' }
       { label: 'Change Theme...', command: 'window:launch-theme-picker' }
